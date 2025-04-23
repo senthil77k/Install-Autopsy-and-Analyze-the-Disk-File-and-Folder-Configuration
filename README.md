@@ -117,7 +117,7 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
   ![image](https://github.com/user-attachments/assets/15afdaff-dacf-4af6-b496-257bc27530c7)
 
   •	Generate Report
-  ![image](https://github.com/user-attachments/assets/d3169b7f-429d-494a-8124-cb094e4bde1f)
+  ![image](https://github.com/user-attachments/assets/acc161ae-bc63-4625-a820-9ed4491c2d19)
 
 
 
